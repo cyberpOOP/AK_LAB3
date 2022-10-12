@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <hellomake.h>
+#include <header.h>
 
 void myPrintHelloMake(void) {
 
