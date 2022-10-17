@@ -1,9 +1,7 @@
-#include <stdio.h>
 #include <header.h>
 
-void myPrintHelloMake(void) {
+int main() {
+  myPrintHelloMake();
 
-  printf("Hello makefiles!\n");
-
-  return;
+  return(0);
 }
