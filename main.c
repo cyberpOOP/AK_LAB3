@@ -1,4 +1,4 @@
-#include <header.h>
+#include "foo.h"
 
 int main() {
   myPrintHelloMake();
