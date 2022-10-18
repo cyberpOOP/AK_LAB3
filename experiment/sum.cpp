@@ -1,7 +1,7 @@
+#include<iostream>
 #include "sum.h"
-
-int sumOfTwoNumbers(int a, int b)
+void Sum(int a, int b)
 {
-    return a+b;
+    std::cout<<"Sum is: "<<a+b<<std::endl;
 }
 

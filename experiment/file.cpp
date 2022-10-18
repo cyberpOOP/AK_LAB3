@@ -1,6 +1,5 @@
 #include<iostream>
 #include "sum.h"
-#include "sum.cpp"
 
 int main()
 {
@@ -10,5 +9,7 @@ int main()
     std::cout<<"b=";
     std::cin>>b;
 
-    std::cout<<"Sum is:"<<sumOfTwoNumbers(a, b)<<"\n";
+    Sum(a, b);
+
+    return 0;
 }

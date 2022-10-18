@@ -1,1 +1,1 @@
-int sumOfTwoNumbers(int a, int b);
+void Sum(int a, int b);
